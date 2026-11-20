@@ -1,0 +1,10 @@
+
+========== Coffee Shop ==========
+Spanish Latte x 1 = Php 195.00
+Matcha x 1 = Php 205.00
+---------------------------------
+TOTAL: Php 400.00
+CASH: Php 500.00
+CHANGE: Php 100.00
+---------------------------------
+Thank you! Come again!

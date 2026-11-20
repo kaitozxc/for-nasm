@@ -1,0 +1,37 @@
+
+CERTIFICATE OF REGISTRATION
+-------------------------------
+Enrollment Status: Enrolled
+Student Number: 202511180
+Name: Aaron Gabriel C. Madera
+Phone: 9763221886
+Zip Code: 1800
+Classification: 
+
+Course    Title                                Section Units Days Time          Room
+------------------------------------------------------------------------------------------
+CS0021    INFORMATION MANAGEMENT (LEC)         TN24    2     T    16:00-18:40   Online
+CS0021L   INFORMATION MANAGEMENT (LAB)         TN24    1     F    16:00-18:50   Online
+CS0001    DISCRETE STRUCTURES 1                TN24    3     F    10:00-12:40   F710/F710
+CS0003    COMPUTER SYSTEMS & ARCHITECTURE       TN24    2     F    10:00-12:40   Online
+CS0003L   COMPUTER SYSTEMS & ARCHITECTURE LAB   TN24    1     TH   10:00-12:50   E610
+CS0070    OBJECT ORIENTED PROGRAMMING           TN26    2     F    13:00-15:40   Online
+CS0070L   OBJECT ORIENTED PROGRAMMING LAB       TN26    1     M    13:00-15:50   E609
+GED0021   SPECIALIZED ENGLISH PROGRAM 2         TN24    3     S/W  11:00-12:50   F607/F607
+GED0055   MATHEMATICAL ANALYSIS                 M553    3     S/W  09:00-10:50   F712/F712
+GED0081   COLLEGE PHYSICS 1 LECTURE             TS21    2     T    10:00-12:40   Online
+GED0081L  COLLEGE PHYSICS 1 LAB                 TS21    1     M    10:00-12:50   F1003
+------------------------------------------------------------------------------------------
+
+Total Units: 21
+
+Tuition Fee: PHP 44268.00
+Miscellaneous Fee: PHP 12305.00
+ID Validation Fee: PHP 80.00
+ITE Computer Lab Fees: PHP 12024.00
+Science Lab Fee: PHP 4104.00
+TOTAL ASSESSMENT: PHP 72781.00
+
+Down Payment (40%): PHP 29112.40
+Midterm (30%): PHP 21834.30
+Final (30%): PHP 21834.30
